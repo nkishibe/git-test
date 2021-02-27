@@ -1,2 +1,2 @@
 # Git Test
-# git
+# gitの練習
